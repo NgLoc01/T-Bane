@@ -1,4 +1,3 @@
-//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
 import java.util.HashMap;
 import java.util.Scanner;
 import java.io.File;
