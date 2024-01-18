@@ -1,185 +1,177 @@
-1Frognerseteren
-1Voksenkollen
-1Lillevann
-1Skogen
-1Voksenlia
-1Holmenkollen
-1Besserud
-1Midtstuen
-1Skådalen
-1Vettakollen
-1Gråkammen
-1Slemdal
-1Ris
-1Gaustad
-1Vinderen
-1Steinerud
-1Frøen
-1Majorstuen
-1Nationaltheatret
-1Stortinget
-1Jernbanetorget
-1Grønland
-1Tøyen
-1Ensjø
-1Helsfyr
-1Brynseng
-1Høyenhall
-1Manglerud
-1Ryen
-1Brattlikollen
-1Karlsrud
-1Lambertseter
-1Munkelia
-1Bergkrystallen
+1STJ01 Frognerseteren 1TN1 
+1STJ02 Voksenkollen
+1STJ03 Lillevann
+1STJ04 Skogen
+1STJ05 Voksenlia
+1STJ06 Holmenkollen
+1STJ07 Besserud
+1STJ08 Midtstuen
+1STJ09 Skådalen
+1STJ10 Vettakollen
+1STJ11 Gråkammen
+1STJ12 Slemdal
+1STJ13 Ris
+1STJ14 Gaustad
+1STJ15 Vinderen
+1STJ16 Steinerud
+1STJ17 Frøen
+1STJ18 Majorstuen
+1STJ19 Nationaltheatret
+1STJ20 Stortinget
+1STJ21 Jernbanetorget
+1STJ22 Grønland
+1STJ23 Tøyen
+1STJ24 Ensjø
+1STJ25 Helsfyr
+1STJ26 Brynseng
+1STJ27 Høyenhall
+1STJ28 Manglerud
+1STJ29 Ryen
+1STJ30 Brattlikollen
+1STJ31 Karlsrud
+1STJ32 Lambertseter
+1STJ33 Munkelia
+1STJ34 Bergkrystallen
 
+2STJ01 Østerås
+2STJ02 Lijordet 
+2STJ03 Eiksmarka 
+2STJ04 Ekraveien
+2STJ05 Røa
+2STJ06 Hovseter
+2STJ07 Holmen
+2STJ08 Makrellbekken
+2STJ09 Smestad
+2STJ10 Borgen
+2STJ11 Majorstuen
+2STJ12 Nationaltheatret
+2STJ13 Stortinget
+2STJ14 Jernbanetorget
+2STJ15 Grønland
+2STJ16 Tøyen
+2STJ17 Ensjø
+2STJ18 Helsfyr
+2STJ19 Brynseng
+2STJ20 Hellerud
+2STJ21 Tveita
+2STJ22 Haugerud
+2STJ23 Trosterud
+2STJ24 Lindeberg
+2STJ25 Furuset
+2STJ26 Ellingsrudåsen
 
+3STJ01 Kolsås
+3STJ02 Hauger
+3STJ03 Gjettum
+3STJ04 Avløs
+3STJ05 Haslum
+3STJ06 Gjønnes
+3STJ07 Bekkestua
+3STJ08 Ringstabekk
+3STJ09 Jar
+3STJ10 Bjørnsletta
+3STJ11 Åsjordet
+3STJ12 Ullernåsen
+3STJ13 Montebello
+3STJ14 Smestad
+3STJ15 Borgen
+3STJ16 Majorstuen
+3STJ17 Nationaltheatret
+3STJ18 Stortinget
+3STJ19 Jernbanetorget
+3STJ20 Grønland
+3STJ21 Tøyen
+3STJ22 Ensjø
+3STJ23 Helsfyr
+3STJ24 Brynseng
+3STJ25 Hellerud
+3STJ26 Godlia
+3STJ27 Skøyenåsen
+3STJ28 Oppsal
+3STJ29 Ulsrud
+3STJ30 Bøler
+3STJ31 Bogerud
+3STJ32 Skullerud
+3STJ33 Mortensrud
 
-2Østerås
-2Lijordet 
-2Eiksmarka 
-2Ekraveien
-2Røa
-2Hovseter
-2Holmen
-2Makrellbekken
-2Smestad
-2Borgen
-2Majorstuen
-2Nationaltheatret
-2Stortinget
-2Jernbanetorget
-2Grønland
-2Tøyen
-2Ensjø
-2Helsfyr
-2Brynseng
-2Hellerud
-2Tveita
-2Haugerud
-2Trosterud
-2Lindeberg
-2Furuset
-2Ellingsrudåsen
+4STJ01 Vestli
+4STJ02 Stovner
+4STJ03 Rommen
+4STJ04 Romsås
+4STJ05 Grorud
+4STJ06 Ammerud
+4STJ07 Kalbakken
+4STJ08 Rødtvet
+4STJ09 Veitvet
+4STJ10 Linderud
+4STJ11 Vollebekk
+4STJ12 Risløkka
+4STJ13 Økern
+4STJ14 Løren
+4STJ15 Sinsen
+4STJ16 Storo
+4STJ17 Nydalen
+4STJ18 Ullevål stadion
+4STJ19 Forskningsparken
+4STJ20 Blindern
+4STJ21 Majorstuen
+4STJ22 Nationaltheatret
+4STJ23 Stortinget
+4STJ24 Jernbanetorget
+4STJ25 Grønland
+4STJ26 Tøyen
+4STJ27 Ensjø
+4STJ28 Helsfyr
+4STJ29 Brynseng
+4STJ30 Høyenhall
+4STJ31 Manglerud
+4STJ32 Ryen
+4STJ33 Brattlikollen
+4STJ34 Karlsrud
+4STJ35 Lambertseter
+4STJ36 Munkelia
+4STJ37 Bergkrystallen
 
-
-
-3Kolsås
-3Hauger
-3Gjettum
-3Avløs
-3Haslum
-3Gjønnes
-3Bekkestua
-3Ringstabekk
-3Jar
-3Bjørnsletta
-3Åsjordet
-3Ullernåsen
-3Montebello
-3Smestad
-3Borgen
-3Majorstuen
-3Nationaltheatret
-3Stortinget
-3Jernbanetorget
-3Grønland
-3Tøyen
-3Ensjø
-3Helsfyr
-3Brynseng
-3Hellerud
-3Godlia
-3Skøyenåsen
-3Oppsal
-3Ulsrud
-3Bøler
-3Bogerud
-3Skullerud
-3Mortensrud
-
-
-
-4Vestli
-4Stovner
-4Rommen
-4Romsås
-4Grorud
-4Ammerud
-4Kalbakken
-4Rødtvet
-4Veitvet
-4Linderud
-4Vollebekk
-4Risløkka
-4Økern
-4Løren
-4Sinsen
-4Storo
-4Nydalen
-4Ullevål stadion
-4Forskningsparken
-4Blindern
-4Majorstuen
-4Nationaltheatret
-4Stortinget
-4Jernbanetorget
-4Grønland
-4Tøyen
-4Ensjø
-4Helsfyr
-4Brynseng
-4Høyenhall
-4Manglerud
-4Ryen
-4Brattlikollen
-4Karlsrud
-4Lambertseter
-4Munkelia
-4Bergkrystallen
-
-
-
-5Sognsvann
-5Kringsjå
-5Holstein
-5Østhorn
-5Tåsen
-5Berg
-5Ullevål stadion
-5Forskningsparken
-5Blindern
-5Majorstuen
-5Nationaltheatret
-5Stortinget
-5Jernbanetorget
-5Grønland
-5Tøyen
-5Carl Berners plass
-5Sinsen
-5Storo
-5Nydalen
-5Ullevål stadion
-5Forskningsparken
-5Blindern
-5Majorstuen
-5Nationaltheatret
-5Stortinget
-5Jernbanetorget
-5Grønland
-5Tøyen
-5Carl Berners plass
-5Hasle
-5Økern
-5Risløkka
-5Vollebekk
-5Linderud
-5Veitvet
-5Rødtvet
-5Kalbakken
-5Ammerud
-5Grorud
-5Romsås
-5Rommen
-5Stovner
-5Vestli
+5STJ01 Sognsvann
+5STJ02 Kringsjå
+5STJ03 Holstein
+5STJ04 Østhorn
+5STJ05 Tåsen
+5STJ06 Berg
+5STJ07 Ullevål stadion
+5STJ08 Forskningsparken
+5STJ09 Blindern
+5STJ10 Majorstuen
+5STJ11 Nationaltheatret
+5STJ12 Stortinget
+5STJ13 Jernbanetorget
+5STJ14 Grønland
+5STJ15 Tøyen
+5STJ16 Carl Berners plass
+5STJ17 Sinsen
+5STJ18 Storo
+5STJ19 Nydalen
+5STJ20 Ullevål stadion
+5STJ21 Forskningsparken
+5STJ22 Blindern
+5STJ23 Majorstuen
+5STJ24 Nationaltheatret
+5STJ25 Stortinget
+5STJ26 Jernbanetorget
+5STJ27 Grønland
+5STJ28 Tøyen
+5STJ29 Carl Berners plass
+5STJ30 Hasle
+5STJ31 Økern
+5STJ32 Risløkka
+5STJ33 Vollebekk
+5STJ34 Linderud
+5STJ35 Veitvet
+5STJ36 Rødtvet
+5STJ37 Kalbakken
+5STJ38 Ammerud
+5STJ39 Grorud
+5STJ40 Romsås
+5STJ41 Rommen
+5STJ42 Stovner
+5STJ43 Vestli
