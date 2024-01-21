@@ -56,9 +56,14 @@ class TBane{
 }
 
 class Station{
+    String stjID;
+    String stasjonNavn;
+    ArrayList<String> tnIDer = new ArrayList<String>();
 
 }
 
 class Tunnel{
-
+    String tnID;
+    String tunnelNavn;
+    int reisetid;
 }
